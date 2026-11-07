@@ -1,0 +1,18 @@
+ACAMP'27 — VERSÃO ATUALIZADA COM CONTEÚDO DE BOAS-VINDAS E EXPERIÊNCIAS
+
+Para publicar, envie os quatro arquivos abaixo para a mesma pasta no servidor de hospedagem, substituindo o HTML anterior somente depois de guardar uma cópia de segurança:
+- index.html
+- capa-acamp27-2027.jpeg (fotografia usada como fundo da seção principal)
+- logo-acamp27.png (logo exibida somente na barra de navegação e usada como ícone do site)
+- qr-inscricao-acamp27.png (QR Code do formulário oficial)
+
+O site apresenta a 4ª edição do ACAMP, a mensagem de boas-vindas, o propósito cristão do encontro, as experiências anunciadas (louvor, comunhão, gincanas, vigília e edificação), além das informações de inscrição.
+
+Formulário oficial: https://forms.cloud.microsoft/r/17fuFVyT1A?origin=lprLink
+
+Observações para a organização:
+- Os horários e a programação detalhada não foram inventados; a página informa que serão divulgados pela organização.
+- O conteúdo do Microsoft Forms não foi editado; apenas os links do site apontam para o formulário informado.
+- O número de WhatsApp foi mantido do HTML anterior (55 98 7010-9772); confirmar se continua correto.
+- As orientações de vestuário, cama, banho e alimentação foram preservadas da versão anterior; confirmar se continuam vigentes.
+- Conferir os valores e as regras de desconto/entrada antes da publicação definitiva.
